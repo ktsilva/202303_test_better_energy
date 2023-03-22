@@ -1,12 +1,22 @@
 # 2023/03/21 Better Energy
 # S&amp;A technical exercise
 
-1. upload data
-1.b. how to transfer xls file to csv file
-2. save data in array
-3. plot plant_x: data vs irradiance >> season pattern?
-4. ongoing...
+1. Created GitHub working space (private). Status_ DONE
 
+2. Convert xls --> csv file. Status_ DONE
+
+3. Upload csv file into GitHub working space. Status_ TODO
+
+4. Create pandas notebook. Status_ TODO
+
+5. Save data in array (or other best solution). Status_ TODO
+
+6. Understand the data. Status_ TODO
+  6.a. PLOT plantX: data vs irradiance >> season pattern?
+
+7. Create a short report. Decide on how to present the results. Status_ TODO
+ 
+*****************************************************************************
 
 From Dale:
 
