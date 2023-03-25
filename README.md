@@ -5,7 +5,7 @@
 
 2. Convert xls --> csv file. Status_ DONE
 
-3. Upload csv file into GitHub working space. Status_ TODO
+3. Upload csv file into GitHub working space. Status_ DONE
 
 4. Create pandas notebook. Status_ TODO
 
