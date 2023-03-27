@@ -2,7 +2,44 @@
 
 Note taking, knowledge creation
 
-Source: https://articles.solcast.com.au/en/articles/2959761-what-is-ac-capacity-what-is-dc-capacity
-The DC capacity is the total wattage of all of your solar panels. 
+
+++ The DC capacity is the total wattage of all of your solar panels. 
 You'll need to figure out what the 'rating' of your solar panels is, and then sum up the total of all the solar panels in your solar array. 
 The value should be provided in Watts. 
+Source: https://articles.solcast.com.au/en/articles/2959761-what-is-ac-capacity-what-is-dc-capacity
+
+
+Quantitative Questions:
+
+    What is the approximate DC capacity of each PV installation in kWp?
+    
+++ kWp, or kilowatt peak of your panel, is calculated with a standardized test that all solar panel manufacturers must adhere to, with standardized radiance, temperature, and size. These standards are as follows:
+
+    Solar radiation of 1,000-watts/m2
+    Ambient temperature of 25-degrees C
+    Clear skies
+    kWh, or kilowatt-hours, refers to an appliance’s energy in one hour. A kilowatt equals 1,000-watts, so if you use a 1,000-watt appliance for one hour, you’ll be consuming 1 kWh of energy.
+
+If your solar system has a kWp of 1,000-watts, for example, your kWh to kWp ratio is 1:1. 
+Of course, this is at peak performance, so the ratio is, in reality, a fair bit lower.
+
+A 1 kWp system operating at peak performance would supply you with one kilowatt of power, 
+but this depends on many factors like efficiency, temperature, and weather, so these two metrics are certainly important but somewhat unrelated.
+Source: https://solvoltaics.com/calculate-kwp-solar-panel/
+    
+    
+    
+    
+    What is the approximate performance ratio (PR) of each installation in 2018, 2019 and 2020?
+    What percentage of the data could be considered invalid?
+
+Qualitative Questions
+
+    How might this data be transmitted between a datalogger and an online portal?
+    For a few example datapoints explain why you flagged them as invalid.
+    If there is a seasonal difference in performance, explain why this might be the case.
+
+Additional Questions
+
+    How might you approach visualisation of the data to inform non-subject experts of the issues seen?
+    What other details can you infer about the parks? Can you estimate their approximate location?
