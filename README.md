@@ -7,14 +7,14 @@
 
 3. Upload csv file into GitHub working space. Status_ DONE
 
-4. Create pandas notebook. Status_ TODO
+4. Create pandas notebook. Status_ DONE
 
-5. Save data in array (or other best solution). Status_ TODO
+5. Save data in array (or other best solution). Status_ DONE
 
-6. Understand the data. Status_ TODO
+6. Understand the data. Status_ DONE
   6.a. PLOT plantX: data vs irradiance >> season pattern?
 
-7. Create a short report. Decide on how to present the results. Status_ TODO
+7. Create a short report. Decide on how to present the results. Status_ DONE
  
 *****************************************************************************
 
